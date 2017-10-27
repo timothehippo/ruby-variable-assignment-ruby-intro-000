@@ -2,4 +2,4 @@
  # give it the value of the string "Hello World"
 greeting = "Hello World"
 greeting.upcase
-puts greeting
+puts greeting.upcase
